@@ -198,7 +198,7 @@ Val accuracy leads train accuracy throughout — a healthy sign that augmentatio
 
 | Source | Images | Role |
 |---|---|---|
-| **Custom (photographed)** | ~1,500 | Real-world handwriting, 10 digit classes, folders `0/`–`9/` |
+| **Custom (photographed)** | ~15000 | Real-world handwriting, 10 digit classes, folders `0/`–`9/` |
 | **MNIST (train + test)** | 70,000 | Standard benchmark — full dataset merged for maximum coverage |
 | **Total** | **~91,500** | Merged, synchronised shuffle, 85/15 train/val split |
 
