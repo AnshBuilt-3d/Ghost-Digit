@@ -184,13 +184,13 @@ Val accuracy leads train accuracy throughout — a healthy sign that augmentatio
   Any input size          →    28 × 28 px  (MNIST-standard)
 ```
 
-**Before preprocessing** — noisy background, low contrast, MNIST pipeline would fail:
+**Before preprocessing** – noisy background, low contrast, MNIST pipeline would fail:
 
-![Without processing](what_the_model_sees_without_processing_.png)
+![Without processing](IMG/what%20the%20model%20sees%20without%20processing%20.png)
 
-**After contrast enhancement + Otsu threshold** — clean digit, ready for the CNN:
+**After contrast enhancement + Otsu threshold** – clean digit, ready for the CNN:
 
-![With processing](what_the_model_sees_with_Contrast_Enhancement_and_ostsu_threshold_and_contours.png)
+![With processing](IMG/what%20the%20model%20sees%20with%20Contrast%20Enhancement%20and%20ostsu%20threshold%20and%20contours.png)
 
 ---
 
