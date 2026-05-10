@@ -278,11 +278,6 @@ ghost-digit/
 ├── deep_cnn_mnist_dataset.py        Training script (used for saved model)
 ├── DEEP_CNN.PY                      Alternate — stronger augmentation, checkpoint callback
 │
-├── archive (17)/                    Custom digit dataset
-│   ├── 0/   *.jpg
-│   ├── 1/   *.jpg
-│   └── ...  9/
-│
 └── deep_scan_model_val-99_13__los-0_0269_with_mnist_at_32_batch_size.h5
                                      Trained model weights
 ```
