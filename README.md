@@ -168,7 +168,7 @@ ImageDataGenerator(
 
 ### Training Curves
 
-![Training Curves](val-99_42.png)
+![Validation Accuracy](IMG/val-99.42.png)
 
 Val accuracy leads train accuracy throughout — a healthy sign that augmentation is forcing the model to generalise rather than memorise. Both loss curves converge cleanly with no late-stage divergence.
 
